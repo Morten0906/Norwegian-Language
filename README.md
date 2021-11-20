@@ -1,23 +1,37 @@
-A: Where are you going?
 
-B: I have to walk the dog.
+Engelsk: A: Where are you going?
+Norsk:
 
-A: What kind of dog do you have?
+Engelsk: B: I have to walk the dog.
+Norsk:
 
-B: I have a little poodle.
+Engelsk: A: What kind of dog do you have?
+Norsk:
 
-A: Poodles bark a lot.
+Engelsk: B: I have a little poodle.
+Norsk:
 
-B: They sure do.
+Engelsk: A: Poodles bark a lot.
+Norsk:
 
-A: They bark at everything.
+Engelsk: B: They sure do.
+Norsk:
 
-B: They never shut up.
+Engelsk: A: They bark at everything.
+Norsk:
 
-A: Why did you get a poodle?
+Engelsk: B: They never shut up.
+Norsk:
 
-B: It's my mom's dog.
+Engelsk: A: Why did you get a poodle?
+Norsk:
 
-A: So she likes poodles.
+Engelsk: B: It's my mom's dog.
+Norsk:
 
-B: She says they're good watchdogs.
+Engelsk: A: So she likes poodles.
+Norsk:
+
+Engelsk: B: She says they're good watchdogs.
+Norsk:
+
