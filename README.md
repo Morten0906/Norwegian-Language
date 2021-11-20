@@ -1,3 +1,23 @@
-# Norwegian-Language
+A: Where are you going?
 
-gold standard
+B: I have to walk the dog.
+
+A: What kind of dog do you have?
+
+B: I have a little poodle.
+
+A: Poodles bark a lot.
+
+B: They sure do.
+
+A: They bark at everything.
+
+B: They never shut up.
+
+A: Why did you get a poodle?
+
+B: It's my mom's dog.
+
+A: So she likes poodles.
+
+B: She says they're good watchdogs.
