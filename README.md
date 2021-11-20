@@ -1,6 +1,6 @@
 
 Engelsk: A: Where are you going?
-Norsk:
+Norsk: hvor skal du?
 
 Engelsk: B: I have to walk the dog.
 Norsk:
